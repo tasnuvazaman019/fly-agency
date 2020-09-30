@@ -1,0 +1,98 @@
+body html{
+  margin: 0;
+  padding: 0;
+}
+/*topper start*/
+.top-bg{
+  background-color: #FF0000;
+}
+
+.top-text{
+	font-size: 12px;
+	color: white;
+	padding-top: 6px;
+  padding-right: 20px;
+}
+.btn-color{
+	  color: #fff;
+    background-color: #ff0000;
+    border-color: #ffffff;
+    font-size: 13px;
+    padding: 1px;
+    margin: 5px;
+}
+.top-text-sm{
+  font-size: 13px;
+  color: white;
+  line-height: 15px;
+}
+/*topper end*/
+
+/*menu start*/
+.menu{
+  background-color: #ffffff;
+}
+.bg-nav{
+  background-color: rgba(255,255,255, 0.6);
+}
+.btn-nav{
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
+/*menu end*/
+/*content 1 start*/
+.h-content1{
+    font-size: 30px;
+    font-weight: 700;
+}
+.btn-outline-custom1{
+  color: #ff0000;
+  border-color: #221E1E;
+}
+.btn-outline-custom2{
+   color: #221E1E;
+  border-color: #ff0000;
+}
+.h-content1-col{
+  line-height: 40px;
+}
+/*content 1 end*/
+/*card start*/
+/*card end*/
+/*content 2 start*/
+.banner1{
+  background: url(../images/brush.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+
+/*content 2 end*/
+/*image start*/
+.p-sm-text{
+  font-size: 14px;
+}
+.h-sm-text{
+  font-size: 30px; 
+}
+/*image end*/
+/*sign-up start*/
+.banner2{
+  background: url(../images/brush2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+/*sign-up end*/
+
+/*footer start*/
+.p-footer{
+  background-color: #FF0000;
+  font-size: 10px;
+  color: white;
+}
+/*footer end*/
